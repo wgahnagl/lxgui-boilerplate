@@ -1,0 +1,5 @@
+mmo-ui
+build/
+logs/*
+!logs/README.md
+/include

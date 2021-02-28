@@ -1,0 +1,3 @@
+[submodule "lib/lxgui"]
+	path = lib/lxgui
+	url = https://github.com/unnamed-mmo/lxgui.git
