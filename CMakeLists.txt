@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-set(PROJECTNAME mmo-ui) 
+set(PROJECTNAME example-ui) 
 project(${PROJECTNAME})
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR})
